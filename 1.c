@@ -1,5 +1,6 @@
-#include<stdio.h>
-int main(){
-printf("hello world");
-return 0;
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
 }
